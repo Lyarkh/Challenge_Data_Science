@@ -61,7 +61,14 @@ As colunas que tiveram inconsistência:
 - `Charges.Total`
 
 ## Semana 2 -
+---
+(🚧Em construção🚧)
 
 ## Semana 3 -
+---
+(🚧Em construção🚧)
+
 
 ## Semana 4 -
+---
+(🚧Em construção🚧)
